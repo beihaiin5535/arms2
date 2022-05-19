@@ -1,12 +1,12 @@
 {
-  "CONTRACT_ADDRESS": "0x",
-  "SCAN_LINK": "https://bscscan.com/address/0x",
+  "CONTRACT_ADDRESS": "0x92ac543C77aF5ddE76CFA4C3034ec06dF30cB953",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x3D74a285EEfEa05A6C5899bD715cE94B90074a37",
   "NETWORK": {
-    "NAME": "BSC  Network",
+    "NAME": "BSC Test Network",
     "SYMBOL": "BSC",
-    "ID": 56
+    "ID": 97
   },
-  "NFT_NAME": "Farm",
+  "NFT_NAME": "Foodle",
   "SYMBOL": "FT",
   "MAX_SUPPLY": 0,
   "WEI_COST": 75000000000000000,
