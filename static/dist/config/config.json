@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x92ac543C77aF5ddE76CFA4C3034ec06dF30cB953",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x3D74a285EEfEa05A6C5899bD715cE94B90074a37",
+  "NETWORK": {
+    "NAME": "BSC Test Network",
+    "SYMBOL": "BSC",
+    "ID": 97
+  },
+  "NFT_NAME": "Foodle",
+  "SYMBOL": "FT",
+  "MAX_SUPPLY": 0,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true,
+  "RELEASE_TIME": "Sat May 12 2022 14:00:00 UTC",
+  "STOPPED": false
+}
